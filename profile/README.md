@@ -12,6 +12,10 @@ We're a passionate team of developers and gaming enthusiasts dedicated to enhanc
 - [Rishit](https://github.com/RI5HIT)
 - [UT Modz](https://github.com/UT-Modz)
 
+## 🌟 Contributors
+- [Guardian](https://github.com/GuardianOP)
+- [Butterchilly](https://github.com/butterchilly)
+
 ## 📢 Showcase Server
 `connect 147.189.171.202` or `cfx.re/join/a9v5m5`
 
