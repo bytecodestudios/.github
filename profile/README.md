@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <a href="https://discord.gg/qxGPARNwNP"><img src="https://img.shields.io/badge/Discord-Join%20Us-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
+  <a href="https://discord.gg/pKS57Feh6a"><img src="https://img.shields.io/badge/Discord-Join%20Us-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
   <a href="https://cfx.re/join/a9v5m5"><img src="https://img.shields.io/badge/FiveM-Showcase%20Server-F40552?style=for-the-badge&logo=fivem&logoColor=white" alt="Showcase Server"></a>
   <a href="https://github.com/bytecodestudios"><img src="https://img.shields.io/badge/GitHub-bytecodestudios-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
 </p>
