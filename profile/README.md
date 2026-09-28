@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <a href="https://discord.gg/pKS57Feh6a"><img src="https://img.shields.io/badge/Discord-Join%20Us-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
+  <a href="https://discord.gg/6Tj2MYpDMt"><img src="https://img.shields.io/badge/Discord-Join%20Us-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
   <a href="https://cfx.re/join/a9v5m5"><img src="https://img.shields.io/badge/FiveM-Showcase%20Server-F40552?style=for-the-badge&logo=fivem&logoColor=white" alt="Showcase Server"></a>
   <a href="https://github.com/bytecodestudios"><img src="https://img.shields.io/badge/GitHub-bytecodestudios-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
 </p>
@@ -47,15 +47,6 @@ or join directly via **[cfx.re/join/a9v5m5](https://cfx.re/join/a9v5m5)**
       <a href="https://discord.gg/qnGMgPBzqe">🎧 Support</a>
     </td>
     <td align="center" width="25%">
-      <a href="https://github.com/kartik1410"><img src="https://github.com/kartik1410.png" width="100" style="border-radius:50%" alt="Kartik"></a><br>
-      <b>Kartik Scripts</b><br><br>
-      <a href="https://kartikscripts.store/">🛒 Store</a> ·
-      <a href="https://kartik-scripts.tebex.io/">Tebex</a><br>
-      <a href="https://linktr.ee/kartik3856">🌐 Portfolio</a><br>
-      <a href="https://github.com/kartik1410">💻 GitHub</a><br>
-      <a href="https://discord.gg/T6AXd2eWdH">🎧 Support</a>
-    </td>
-    <td align="center" width="25%">
       <a href="https://github.com/kavyasingh8"><img src="https://github.com/kavyasingh8.png" width="100" style="border-radius:50%" alt="Butter Chilly"></a><br>
       <b>Butter Chilly</b><br><br>
       <a href="https://butterscripts.store">🛒 Store</a><br>
@@ -82,7 +73,7 @@ or join directly via **[cfx.re/join/a9v5m5](https://cfx.re/join/a9v5m5)**
 Have questions, need support, or just want to hang out? Come say hi!
 
 <p align="center">
-  <a href="https://discord.gg/qxGPARNwNP"><img src="https://img.shields.io/badge/Join%20our%20Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Join our Discord"></a>
+  <a href="https://discord.gg/6Tj2MYpDMt"><img src="https://img.shields.io/badge/Join%20our%20Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Join our Discord"></a>
 </p>
 
 <p align="center"><sub>Made with ❤️ by the Bytecode Studios team</sub></p>
