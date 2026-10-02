@@ -16,36 +16,10 @@ We are a team of passionate developers and gaming enthusiasts focused on improvi
 
 > Join us and build a better FiveM experience together. 🚀
 
-## 🖥️ Showcase Server
-
-Try our scripts live before you buy:
-
-```
-connect 147.189.171.202
-```
-
-or join directly via **[cfx.re/join/a9v5m5](https://cfx.re/join/a9v5m5)**
-
 ## 💼 Core Team
 
 <table>
   <tr>
-    <td align="center" width="25%">
-      <a href="https://github.com/cadburry6969"><img src="https://github.com/cadburry6969.png" width="100" style="border-radius:50%" alt="Cadburry"></a><br>
-      <b>Cadburry Scripts</b><br><br>
-      <a href="https://cadburryscripts.store/">🛒 Store</a> ·
-      <a href="https://cadburry.tebex.io/">Tebex</a><br>
-      <a href="https://github.com/cadburry6969">💻 GitHub</a><br>
-      <a href="https://discord.gg/qxGPARNwNP">🎧 Support</a>
-    </td>
-    <td align="center" width="25%">
-      <a href="https://github.com/j5singh"><img src="https://github.com/j5singh.png" width="100" style="border-radius:50%" alt="Snappy"></a><br>
-      <b>Snappy Scripts</b><br><br>
-      <a href="https://snappy.tebex.io/">🛒 Tebex</a><br>
-      <a href="https://linktr.ee/whosnappy">🌐 Portfolio</a><br>
-      <a href="https://github.com/j5singh">💻 GitHub</a><br>
-      <a href="https://discord.gg/qnGMgPBzqe">🎧 Support</a>
-    </td>
     <td align="center" width="25%">
       <a href="https://github.com/kavyasingh8"><img src="https://github.com/kavyasingh8.png" width="100" style="border-radius:50%" alt="Butter Chilly"></a><br>
       <b>Butter Chilly</b><br><br>
